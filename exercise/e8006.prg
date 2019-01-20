@@ -37,7 +37,7 @@ i = -1 &&用于改变符号
 
 do while m <= 5
     i = (-1)*i
-    p =p + i/*(m*m)
+    p =p + i/(m*m)
     m = m + 1
 enddo
 ?"p=",p
