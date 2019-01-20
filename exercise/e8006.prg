@@ -24,8 +24,8 @@ do while m <= 5
    n = n + 1
 enddo
 
-?"p=",p
-out = p
+?"s=",s
+out = s
 
 
 *当然还有一种麻烦的程序，不过意思都是一样的
