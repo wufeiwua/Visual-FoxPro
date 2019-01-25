@@ -34,8 +34,8 @@ out = 0
 a = 1
 s = 0
 n = 1
-while n <= 10 
+do while n <= 10 
 a = 1/(1+a(n-1))
 s = s + (-1)^(n+1)*a
-endfor
+enddo 
 out = s
