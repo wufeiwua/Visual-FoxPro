@@ -200,7 +200,7 @@ arr[1][1]|arr[1][2]|arr[1][3]|arr[2][1]|arr[2][2]|arr[2][3]
 `arr[2][1]` 访问二维数组中第二个数组的第一个元素也可以写成`arr[4]`。
 这是因为数组在内存中是线性排列的原因。
 
-可以看看[C语言中指针与数组的关系](/C/C-point-array-string.md)
+可以看看[C语言中指针与数组的关系](https://wufeiwua.github.io/2019/03/15/C/C-point-array-string/)
 
 ### VFP流程控制
 
